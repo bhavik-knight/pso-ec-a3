@@ -1,0 +1,76 @@
+2021-11-24 00:51:49,471 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'w': 0.5, 'c1': 0.3, 'c2': 0.3}
+2021-11-24 00:51:51,002 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 5.091702126070243e-26, best pos: [-2.17243787e-13  6.10094926e-14]
+2021-11-24 00:51:57,774 - matplotlib.animation - WARNING - MovieWriter PillowWriter unavailable; using Pillow instead.
+2021-11-24 00:51:57,776 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.PillowWriter'>
+2021-11-24 00:52:26,128 - pyswarms.single.local_best - INFO - Optimize for 1000 iters with {'w': 0.8, 'c1': 0.3, 'c2': 0.4, 'k': 3, 'p': 2}
+2021-11-24 00:52:44,758 - pyswarms.single.local_best - INFO - Optimization finished | best cost: 0.11003102385751679, best pos: [0.14390388 0.29886903]
+2021-11-24 00:52:50,206 - matplotlib.animation - WARNING - MovieWriter PillowWriter unavailable; using Pillow instead.
+2021-11-24 00:52:50,208 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.PillowWriter'>
+2021-11-24 01:00:21,434 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'w': 0.7, 'c1': 0.3, 'c2': 0.4}
+2021-11-24 01:00:21,867 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 7.050360915110792e-20, best pos: [ 2.58874989e-10 -5.90537819e-11]
+2021-11-24 01:00:28,709 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-24 01:00:28,713 - matplotlib.animation - INFO - MovieWriter._run: running command: convert -size 1000x800 -depth 8 -delay 3.3333333333333335 -loop 0 rgba:- /mnt/c/Users/bhavik/Dropbox/stfx/3/ec/3/results/1.gif
+2021-11-24 01:03:33,819 - pyswarms.single.local_best - INFO - Optimize for 1000 iters with {'w': 0.5, 'c1': 0.3, 'c2': 0.3, 'k': 10, 'p': 2}
+2021-11-24 01:03:52,873 - pyswarms.single.local_best - INFO - Optimization finished | best cost: 0.012402213832355211, best pos: [0.08374192 0.07341325]
+2021-11-24 01:03:58,533 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-24 01:03:58,535 - matplotlib.animation - INFO - MovieWriter._run: running command: convert -size 1000x800 -depth 8 -delay 3.3333333333333335 -loop 0 rgba:- /mnt/c/Users/bhavik/Dropbox/stfx/3/ec/3/results/11.gif
+2021-11-24 01:04:55,097 - matplotlib.animation - WARNING - MovieWriter stderr:
+convert-im6.q16: no images defined `/mnt/c/Users/bhavik/Dropbox/stfx/3/ec/3/results/11.gif' @ error/convert.c/ConvertImageCommand/3258.
+
+2021-11-24 01:08:30,089 - pyswarms.single.local_best - INFO - Optimize for 1000 iters with {'w': 0.5, 'c1': 0.2, 'c2': 0.4, 'k': 7, 'p': 2}
+2021-11-24 01:08:35,452 - pyswarms.single.local_best - INFO - Optimization finished | best cost: 0.1778237942286984, best pos: [0.19231126 0.37528679]
+2021-11-24 01:08:39,722 - matplotlib.animation - WARNING - MovieWriter ffmpeg unavailable; using Pillow instead.
+2021-11-24 01:08:39,722 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.PillowWriter'>
+2021-11-24 01:15:34,049 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'w': 0.8, 'c1': 0.3, 'c2': 0.2}
+2021-11-24 01:15:34,491 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 1.98658840585762e-13, best pos: [-3.19555819e-07  3.10713565e-07]
+2021-11-24 01:15:38,170 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-24 01:15:38,171 - matplotlib.animation - INFO - MovieWriter._run: running command: convert -size 1000x800 -depth 8 -delay 3.3333333333333335 -loop 0 rgba:- /mnt/c/Users/bhavik/Dropbox/stfx/3/ec/3/results/1.gif
+2021-11-24 01:18:23,948 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'w': 0.9, 'c1': 0.3, 'c2': 0.5}
+2021-11-24 01:18:24,351 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 1.8498928602543568e-06, best pos: [3.00215238 0.50075228]
+2021-11-24 01:18:25,313 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-24 01:18:25,314 - matplotlib.animation - INFO - MovieWriter._run: running command: convert -size 1000x800 -depth 8 -delay 3.3333333333333335 -loop 0 rgba:- /mnt/c/Users/bhavik/Dropbox/stfx/3/ec/3/results/2.gif
+2021-11-24 01:20:10,374 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'w': 0.8, 'c1': 0.4, 'c2': 0.2}
+2021-11-24 01:20:10,729 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 5.922668651387563e-12, best pos: [0.9999986  3.00000043]
+2021-11-24 01:20:11,549 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-24 01:20:11,550 - matplotlib.animation - INFO - MovieWriter._run: running command: convert -size 1000x800 -depth 8 -delay 3.3333333333333335 -loop 0 rgba:- /mnt/c/Users/bhavik/Dropbox/stfx/3/ec/3/results/3.gif
+2021-11-24 01:21:57,935 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'w': 0.6, 'c1': 0.2, 'c2': 0.4}
+2021-11-24 01:21:58,272 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.0014607105861922827, best pos: [0.19252271 0.18933783]
+2021-11-24 01:22:00,986 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-24 01:22:00,987 - matplotlib.animation - INFO - MovieWriter._run: running command: convert -size 1000x800 -depth 8 -delay 3.3333333333333335 -loop 0 rgba:- /mnt/c/Users/bhavik/Dropbox/stfx/3/ec/3/results/4.gif
+2021-11-24 01:23:49,306 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'w': 0.7, 'c1': 0.5, 'c2': 0.2}
+2021-11-24 01:23:49,811 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 1.6947928924913176e-17, best pos: [1.         0.99999999]
+2021-11-24 01:23:53,294 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-24 01:23:53,295 - matplotlib.animation - INFO - MovieWriter._run: running command: convert -size 1000x800 -depth 8 -delay 3.3333333333333335 -loop 0 rgba:- /mnt/c/Users/bhavik/Dropbox/stfx/3/ec/3/results/5.gif
+2021-11-24 01:25:40,133 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'w': 0.8, 'c1': 0.4, 'c2': 0.2}
+2021-11-24 01:25:40,497 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -49.54608337191578, best pos: [4.37124849 5.43390743]
+2021-11-24 01:25:41,681 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-24 01:25:41,682 - matplotlib.animation - INFO - MovieWriter._run: running command: convert -size 1000x800 -depth 8 -delay 3.3333333333333335 -loop 0 rgba:- /mnt/c/Users/bhavik/Dropbox/stfx/3/ec/3/results/6.gif
+2021-11-24 01:27:24,111 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'w': 0.9, 'c1': 0.5, 'c2': 0.3}
+2021-11-24 01:27:24,489 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 7.306655280814311e-12, best pos: [-8.51731854e-05  7.22227824e-06]
+2021-11-24 01:27:27,134 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-24 01:27:27,135 - matplotlib.animation - INFO - MovieWriter._run: running command: convert -size 1000x800 -depth 8 -delay 3.3333333333333335 -loop 0 rgba:- /mnt/c/Users/bhavik/Dropbox/stfx/3/ec/3/results/7.gif
+2021-11-24 01:29:16,133 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'w': 0.9, 'c1': 0.5, 'c2': 0.3}
+2021-11-24 01:29:16,477 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 2.2703693744574593e-05, best pos: [ 0.00029773 -0.0001606 ]
+2021-11-24 01:29:19,397 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-24 01:29:19,398 - matplotlib.animation - INFO - MovieWriter._run: running command: convert -size 1000x800 -depth 8 -delay 3.3333333333333335 -loop 0 rgba:- /mnt/c/Users/bhavik/Dropbox/stfx/3/ec/3/results/8.gif
+2021-11-24 01:31:03,827 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'w': 0.9, 'c1': 0.5, 'c2': 0.2}
+2021-11-24 01:31:04,215 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 2.8255135656025308e-08, best pos: [-9.09207376e-05 -7.19645851e-05]
+2021-11-24 01:31:06,961 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-24 01:31:06,962 - matplotlib.animation - INFO - MovieWriter._run: running command: convert -size 1000x800 -depth 8 -delay 3.3333333333333335 -loop 0 rgba:- /mnt/c/Users/bhavik/Dropbox/stfx/3/ec/3/results/9.gif
+2021-11-24 01:32:59,501 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'w': 0.6, 'c1': 0.5, 'c2': 0.2}
+2021-11-24 01:32:59,870 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.05566240055896403, best pos: [0.76439365 0.58306457]
+2021-11-24 01:33:02,489 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-24 01:33:02,490 - matplotlib.animation - INFO - MovieWriter._run: running command: convert -size 1000x800 -depth 8 -delay 3.3333333333333335 -loop 0 rgba:- /mnt/c/Users/bhavik/Dropbox/stfx/3/ec/3/results/10.gif
+2021-11-24 01:34:51,206 - pyswarms.single.local_best - INFO - Optimize for 100 iters with {'w': 0.9, 'c1': 0.3, 'c2': 0.5, 'k': 5, 'p': 2}
+2021-11-24 01:34:51,607 - pyswarms.single.local_best - INFO - Optimization finished | best cost: 0.08120752233949187, best pos: [0.08984467 0.27043568]
+2021-11-24 01:34:54,419 - matplotlib.animation - WARNING - MovieWriter ffmpeg unavailable; using Pillow instead.
+2021-11-24 01:34:54,420 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.PillowWriter'>
+2021-11-24 01:35:08,796 - pyswarms.single.local_best - INFO - Optimize for 100 iters with {'w': 0.6, 'c1': 0.3, 'c2': 0.4, 'k': 10, 'p': 2}
+2021-11-24 01:35:09,186 - pyswarms.single.local_best - INFO - Optimization finished | best cost: 4.111288212745456, best pos: [1.24859151 0.39729929]
+2021-11-24 01:35:10,206 - matplotlib.animation - WARNING - MovieWriter ffmpeg unavailable; using Pillow instead.
+2021-11-24 01:35:10,207 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.PillowWriter'>
+2021-11-24 01:35:23,947 - pyswarms.single.local_best - INFO - Optimize for 100 iters with {'w': 0.7, 'c1': 0.2, 'c2': 0.3, 'k': 5, 'p': 2}
+2021-11-24 01:35:24,355 - pyswarms.single.local_best - INFO - Optimization finished | best cost: 10.298339617883537, best pos: [1.27199419 1.35655935]
+2021-11-24 01:35:25,352 - matplotlib.animation - WARNING - MovieWriter ffmpeg unavailable; using Pillow instead.
+2021-11-24 01:35:25,353 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.PillowWriter'>
+2021-11-24 01:35:37,684 - pyswarms.single.local_best - INFO - Optimize for 100 iters with {'w': 0.7, 'c1': 0.5, 'c2': 0.5, 'k': 8, 'p': 2}
